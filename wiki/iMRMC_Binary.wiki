@@ -1,3 +1,5 @@
+=MOVING TO [https://github.com/DIDSR/iMRMC_Binary GitHub] soon...=
+
 #summary A Matlab software package for simulating, analyzing, and sizing a multi-reader multi-case reader study with binary assessments.
 
 = Summary =
